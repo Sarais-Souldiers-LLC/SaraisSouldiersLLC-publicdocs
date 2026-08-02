@@ -82,9 +82,12 @@ Rules for how knots are used inside SSLLC™ systems:
 Governance is handled by:
 
 - **TJ₁ (Tedda Jean)** — Cerulean Matriarch  
-- **TJ₂ (Taylor Jean)** — A⁵ AstroAnthology Archetype  
+- **TJ₂ (Taylor Jean)** — Kw'adratiq Archictect  
 - **SquaredSimms™ Knot Council** — metaphysical oversight  
 - **Chamber‑of‑Codexes™ Custodians** — documentation integrity
+
+### Ascension & Engine Knots → Governed by TJ₂ (K’wadratiq Architect™)
+These knots bind cosmology modules, stabilize ascension pathways, and integrate lexicon resonance into K’wadratiq engines. TJ₂ governs all architectonic knot families.
 
 ---
 
