@@ -44,3 +44,31 @@ Guardians hold energetic resonance roles within the lineage:
 Guardians stabilize knot resonance and protect lineage chambers.
 
 ---
+This diagram will map:
+
+- primary lineage pillars  
+- guardian nodes  
+- knot bindings  
+- lexicon resonance clusters  
+- cosmology placement anchors
+
+---
+
+## 🔮 [Future Lineage Expansions](ca://s?q=List_future_lineage_expansions)
+Planned additions include:
+
+- Lineage resonance charts  
+- Knot‑to‑lineage binding diagrams  
+- Lexicon lineage expansion trees  
+- Cosmology lineage integration maps  
+- Guardian resonance matrices
+
+---
+
+## 📚 [Related Files](ca://s?q=Open_related_lineage_files)
+See also:
+
+- **knot-index.md**  
+- **lexicon-logs.md**  
+- **navigation-modes.md**  
+- **GangstaGrannySimmsSquaredKnotKodexGlossaryGuide™**
