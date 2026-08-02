@@ -11,8 +11,8 @@ Represents the fusion of lineage, knot logic, lexicon resonance, and cosmology s
 
 ## 🔷 [Jean‑Quadrant](ca://s?q=Explain_Jean_Quadrant)
 The four‑pillar lineage constellation consisting of:
-- TJ₁ — Cerulean Matriarch  
-- TJ₂ — A⁵ AstroAnthology Archetype  
+- TJ₁ — Tedda Jean 
+- TJ₂ — Taylor Jean
 - TJ₃ — TriniTy Jean  
 - TJ₄ — Tobias Jean  
 Defines polarity, resonance, and cosmology placement.
