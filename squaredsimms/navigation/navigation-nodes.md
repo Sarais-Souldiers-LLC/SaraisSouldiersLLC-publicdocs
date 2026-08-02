@@ -107,3 +107,33 @@ Cosmology navigation is the highest‑order traversal mode.
 
 ## 🗺️ [Navigation Diagram Placeholder](ca://s?q=Generate_navigation_diagram)
 A visual navigation diagram will be added here:
+
+This diagram will map:
+
+- chamber relationships  
+- traversal routes  
+- knot placements  
+- lexicon anchors  
+- lineage pathways  
+
+---
+
+## 🔮 [Future Navigation Expansions](ca://s?q=List_future_navigation_expansions)
+Planned additions include:
+
+- resonance‑based traversal charts  
+- knot‑to‑chamber binding maps  
+- cosmology traversal diagrams  
+- lexicon‑driven navigation trees  
+- lineage traversal matrices
+
+---
+
+## 📚 [Related Files](ca://s?q=Open_related_navigation_files)
+See also:
+
+- **knot-index.md**  
+- **lineage-map.md**  
+- **lexicon.md**  
+- **navigation-modes.md**  
+- **GangstaGrannySimmsSquaredKnotKodexGlossaryGuide™**
