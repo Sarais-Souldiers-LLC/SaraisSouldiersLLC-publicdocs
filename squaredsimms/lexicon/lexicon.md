@@ -91,7 +91,7 @@ Acts as the “library” of the SSLLC™ universe.
 
 ---
 
-## 🧭 [Navigation Modes](ca://s?q=Explain_Navigation_Modes)
+## 🧭 [Navigation Nodes](ca://s?q=Explain_Navigation_Nodes)
 Directional logic for traversing:
 - chambers  
 - codices  
