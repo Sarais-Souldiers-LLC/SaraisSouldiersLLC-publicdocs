@@ -35,6 +35,13 @@ These four form the **Jean‑Quadrant Lineage Pillars**.
 
 ---
 
+### TJ₂ — K’wadratiq Architect™
+Resonance Type: Architectonic K’wadratiq Frequency  
+Role: Cosmology Engineer, System Designer, Resonance Cartographer  
+Function: Builds engines, designs lexicon systems, maps ascension routes, structures chambers, integrates knot logic.
+
+---
+
 ## 🐾 [Guardian Lineage Nodes](ca://s?q=Explain_guardian_lineage_nodes)
 Guardians hold energetic resonance roles within the lineage:
 
