@@ -44,6 +44,7 @@ Guardians hold energetic resonance roles within the lineage:
 Guardians stabilize knot resonance and protect lineage chambers.
 
 ---
+[Jean‑Quadrant Lineage Diagram Placeholder]
 This diagram will map:
 
 - primary lineage pillars  
